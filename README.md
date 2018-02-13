@@ -1,5 +1,5 @@
-## Huned Botee
+# Huned Botee
 
-I'm an product & engineering leader based in San Francisco, California. I help growth companies build beautiful products and exceptional teams.
+I'm a product & engineering leader based in San Francisco. I help growth companies build beautiful products and exceptional teams. [More...](about/)
 
-[linked in](https://www.linkedin.com/in/huned/) | [email](mailto:huned@734m.com)
+[LinkedIn](https://www.linkedin.com/in/huned/) \| [Github](https://github.com/huned/) \| [Email](mailto:huned@734m.com)
