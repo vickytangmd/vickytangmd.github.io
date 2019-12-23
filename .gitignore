@@ -1,5 +1,6 @@
 .bundle/
 _site/
+notes/drafts/
 
 .DS_Store
 Gemfile.lock
