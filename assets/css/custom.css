@@ -15,6 +15,9 @@
   color: #515151;
   text-decoration: underline;
 }
+.sidebar a.active:before {
+  content: "→ ";
+}
 
 .sidebar .copyright {
   font-size: 85%;
