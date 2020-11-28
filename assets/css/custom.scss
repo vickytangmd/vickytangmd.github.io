@@ -1,5 +1,11 @@
 ---
 ---
+$background-color: #fff;
+$background-color-dark: rgba(0, 0, 0, 10%);
+$border-color: rgba(0, 0, 0, 5%);
+$text-color: #515151;
+$monospace-font: "Inconsolata", monospace;
+
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
 
 @media (min-width: 48em) {
@@ -15,17 +21,17 @@
 }
 
 .content, .sidebar {
-  font-family: "Inconsolata", monospace;
-  background-color: #fff;
-  color: #000;
+  font-family: $monospace-font;
+  background-color: $background-color;
+  color: $text-color;
 }
 
 .sidebar {
-  background-color: rgba(0, 0, 0, 10%);
-  border-left: 1px solid rgba(0, 0, 0, 5%);
+  background-color: $background-color-dark;
+  border-left: 1px solid $border-color;
 
   a {
-    color: #515151;
+    color: $text-color;
     text-decoration: underline;
 
     &.active:before {
@@ -34,38 +40,28 @@
   }
 
   .copyright {
-    font-size: 85%;
-    opacity: 30%;
-    margin-top: 3rem;
-  }
-
-  hr {
-    border-top: 1px solid rgba(0, 0, 0, 10%)
+    opacity: 33%;
   }
 }
 
-
-
-
-
 .form-container {
   textarea, input {
-    font-family: 'Inconsolata', monospace;
-    border: 1px solid rgba(0, 0, 0, 33%);
-    background-color: rgba(0, 0, 0, 10%);
+    font-family: $monospace-font;
+    border: 1px solid $border-color;
+    background-color: $background-color-dark;
     width: 100%;
-    margin: 1rem;
-    padding: 0.5rem;
+    margin: 1.5rem 0;
+    padding: 1rem;
     display: block;
   }
 
   textarea {
-    height: 6rem;
+    height: 12rem;
   }
 
   input[type=submit], button {
-    font-family: 'Inconsolata', monospace;
-    color: #000;
+    font-family: $monospace-font;
+    width: auto;
 
     &:hover {
       cursor: pointer;

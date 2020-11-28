@@ -3,7 +3,9 @@ layout: page
 title: About
 ---
 
-I'm an investor based in San Francisco. Previously, I worked on product/engineering at several technology companies in roles ranging from developer to executive.
+I'm an investor based in San Francisco.
+
+Previously, I worked in product/engineering at several technology companies in roles ranging from developer to executive. You can also find me at [LinkedIn](https://www.linkedin.com/in/huned) and [Github](https://github.com/huned).
 
 Some past highlights:
 
