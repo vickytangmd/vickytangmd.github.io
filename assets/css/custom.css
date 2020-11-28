@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+.content, .sidebar {
+  font-family: 'Inconsolata', monospace;
+  background-color: #fff;
+  color: #000;
+}
+
+.sidebar {
+  background-color: rgba(0, 0, 0, 10%);
+  border-left: 1px solid rgba(0, 0, 0, 5%);
+}
+
+.sidebar a {
+  color: #515151;
+  text-decoration: underline;
+}
+
+.sidebar .copyright {
+  font-size: 85%;
+  opacity: 30%;
+  margin-top: 3rem;
+}
+
+.sidebar hr {
+  border-top: 1px solid rgba(0, 0, 0, 10%)
+}
+
+.form-container input, textarea {
+  width: 100%;
+  margin: 1rem;
+  padding: 0.5rem;
+  display: block;
+}
+
+.form-container textarea, .form-container input {
+  font-family: 'Inconsolata', monospace;
+  border: 1px solid rgba(0, 0, 0, 33%);
+  background-color: rgba(0, 0, 0, 10%);
+}
+
+.form-container textarea {
+  height: 6rem;
+}
+
+.form-container input[type=submit], button {
+  font-family: 'Inconsolata', monospace;
+  color: #000;
+}
+.form-container input[type=submit]:hover, button:hover {
+  cursor: pointer;
+}
+
+
+
+@media (min-width: 48em) {
+  html, textarea, input {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 58em) {
+  html, textarea, input {
+    font-size: 16px;
+  }
+}
