@@ -1,8 +1,5 @@
 title: Huned Botee
-description: Huned Botee
 baseurl: /
 remote_theme: huned/hyde@master
 plugins:
   - jekyll-remote-theme
-github:
-  enable: false
