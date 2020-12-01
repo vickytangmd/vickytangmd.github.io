@@ -4,3 +4,4 @@ remote_theme: huned/hyde@master
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
+  - jekyll-seo-tag
