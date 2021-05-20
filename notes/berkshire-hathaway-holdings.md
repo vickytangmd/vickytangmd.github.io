@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: note
 title: "Berkshire Hathaway: 13F-HR Holdings"
 ---
 
-{% last_modified_at %}
+Updated: {{ page.last_modified_at | date: "%m/%d/%Y %H:%M" }}
 
 ## 5/18/2021
 
