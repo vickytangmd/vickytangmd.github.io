@@ -5,3 +5,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-last-modified-at
+
+# The default date format, used if none is specified in the tag.
+last-modified-at:
+    date-format: 'Updated %m/%d/%Y'
