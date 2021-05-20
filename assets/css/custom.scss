@@ -12,6 +12,10 @@ $monospace-font: "Inconsolata", monospace;
   html, textarea, input {
     font-size: 12px;
   }
+
+  .sidebar {
+    width: 24rem;
+  }
 }
 
 @media (min-width: 58em) {
@@ -30,12 +34,20 @@ $monospace-font: "Inconsolata", monospace;
   background-color: $background-color-dark;
   border-left: 1px solid $border-color;
 
+  hr {
+    border: none
+  }
+
   a {
     color: $text-color;
     text-decoration: underline;
 
     &.active:before {
       content: "→ ";
+    }
+
+    &.note {
+      margin-left: 1rem;
     }
   }
 
