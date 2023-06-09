@@ -13,7 +13,6 @@ site-css:
   - "/assets/css/demo.css"
 
 # Cosmetic behavior
-url-pretty: "VickyTangCoaching.com"
 avatar: /assets/img/avatar-icon.jpg
 round-avatar: true
 
@@ -22,9 +21,9 @@ navbar-links:
   # About: "about"
   Book a Call: "https://calendly.com/victoriatang"
   Newsletter: "https://vickytangcoaching.substack.com"
-  Resources:
-    - Publications: "https://profiles.ucsf.edu/victoria.tang#toc-id5"
-    - Linked In: "https://www.linkedin.com/in/vickytangmd/"
+  #Resources:
+  #  - Publications: "https://profiles.ucsf.edu/victoria.tang#toc-id5"
+  #  - Linked In: "https://www.linkedin.com/in/vickytangmd/"
 
 # Footer links
 social-network-links:
