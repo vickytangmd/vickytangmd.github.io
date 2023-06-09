@@ -1,7 +1,5 @@
 .bundle/
 _site/
-notes/drafts/
-
 .DS_Store
+.jekyll-metadata
 Gemfile.lock
-

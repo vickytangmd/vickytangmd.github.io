@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'webrick'
 gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-remote-theme', group: :jekyll_plugins
 gem 'jekyll-sitemap', group: :jekyll_plugins
