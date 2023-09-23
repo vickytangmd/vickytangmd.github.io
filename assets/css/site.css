@@ -1,20 +1,40 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
+@media (min-width: 768px) {
+  .debutante .picture-frame {
+    float: right;
+    width: 50%;
+    max-width: 400px;
+  }
+
+  .debutante .explainer {
+    font-size: 1.25rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .debutante .picture-frame {
+    width: 50%;
+    max-width: 600px;
+  }
+
+  .debutante .explainer {
+    font-size: 1.75rem;
+  }
+}
+
+.debutante {
+  margin-bottom: 2rem;
+}
+
 .debutante .picture-frame {
-  margin: 2rem;
-  float: right;
-  width: 50%;
+  min-width: 300px;
+  padding: 1rem;
   filter: drop-shadow(0.25rem 0.25rem 0.25rem rgba(0, 0, 0, 50%));
 }
 
 .debutante h2 {
   font-size: 3em;
-}
-
-.debutante .explainer {
-  margin: 3rem;
-  padding: 2rem;
-  padding-right: 50%;
 }
 
 h1, h2, h3 {
