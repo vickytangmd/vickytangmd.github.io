@@ -24,8 +24,9 @@ site-js:
 
 # Navbar
 navbar-links:
-  # About: "about"
   Get Started: "https://calendly.com/victoriatang"
+  FAQ: "faq"
+  About: "about"
   #Newsletter: "https://vickytangcoaching.substack.com"
   #Resources:
   #  - Publications: "https://profiles.ucsf.edu/victoria.tang#toc-id5"
