@@ -1,8 +1,5 @@
 ---
-#title: Vicky Tang, MD, MAS
-#subtitle: Coaching geriatricians and aging researchers
-layout: home
-#cover-img: /assets/img/cover-2.jpg
+layout: default
 ---
 
 <div class="debutante">
@@ -14,23 +11,26 @@ layout: home
     <h2>Welcome!</h2>
 
     <p>
-      I am a certified professional coach for geriatricians and aging researchers.
+      I am a physician, researcher, and certified professional coach in the
+      field of geriatrics. It's my mission to help society take better care
+      of older adults.
     </p>
 
     <p>
-      <strong>Level up your career. Live out your purpose.</strong>
+      As a certified professional coach for geriatricians and aging researchers,
+      I can help you <strong>level up your career</strong>, <strong>multiply
+      your impact</strong>, and <strong>live out your purpose</strong>.
     </p>
 
     <div class="centered">
-      <a class="btn btn-success btn-lg get-started-btn" href="https://calendly.com/victoriatang" target="_blank">Get Started</a>
-      <a class="secondary" href="/about">Learn More</a>
+      <a class="btn btn-success get-started-btn" href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/victoriatang/coaching'});return false;">Book a Call</a>
     </div>
   </div>
 </div>
 
 <hr>
 
-<h3 class="centered cursive">A few words from my clients</h3>
+<h3 class="centered">A few words from my clients</h3>
 <div class="testimonials">
   <p>
     "Vicky Tang is powerful human being and an amazing coach. She is authentic,

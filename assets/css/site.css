@@ -8,22 +8,15 @@
 }
 
 .debutante h2 {
-  font-family: 'Pacifico', cursive;
   font-size: 3em;
 }
 
 .debutante .explainer {
   margin: 3rem;
   padding: 2rem;
+  padding-right: 50%;
 }
 
-.cursive {
+h1, h2, h3 {
   font-family: 'Pacifico', cursive;
-}
-
-/* jumbotron */
-.centered a.secondary {
-  display: inline-block;
-  padding: 0.25rem;
-  font-size: 1.125rem;
 }

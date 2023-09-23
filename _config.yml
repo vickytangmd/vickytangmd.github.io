@@ -14,9 +14,11 @@ site-css:
   - "/assets/css/site.css"
   - "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css"
   - "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"
+  - "https://assets.calendly.com/assets/external/widget.css"
 site-js:
   - "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"
   - "/assets/js/testimonials.js"
+  - "https://assets.calendly.com/assets/external/widget.js"
 
 # Cosmetic behavior
 #avatar: /assets/img/avatar-icon.jpg
@@ -24,10 +26,9 @@ site-js:
 
 # Navbar
 navbar-links:
-  Get Started: "https://calendly.com/victoriatang"
-  FAQ: "faq"
-  About: "about"
-  #Newsletter: "https://vickytangcoaching.substack.com"
+  Book a Call: "https://calendly.com/victoriatang/coaching"
+  Email Me: "mailto:vicky.tang@vickytangcoaching.com?subject=Website%20request"
+  #Stay in Touch: "https://vickytangcoaching.substack.com"
   #Resources:
   #  - Publications: "https://profiles.ucsf.edu/victoria.tang#toc-id5"
   #  - Linked In: "https://www.linkedin.com/in/vickytangmd/"
@@ -36,8 +37,8 @@ navbar-links:
 social-network-links:
   # substack: vickytangcoaching TODO
   linkedin: vickytangmd
-  telephone: +18325679866
-  email: vicky.tang@vickytangcoaching.com
+  #telephone: +18325679866
+  email: "vicky.tang@vickytangcoaching.com?subject=Website%20request"
   calendly: victoriatang
   # google-scholar: TODO
 
