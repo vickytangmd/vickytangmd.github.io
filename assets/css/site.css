@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.debutante .picture-frame {
+  margin: 2rem;
+  float: right;
+  width: 50%;
+  filter: drop-shadow(0.25rem 0.25rem 0.25rem rgba(0, 0, 0, 50%));
+}
+
+.debutante h2 {
+  font-family: 'Pacifico', cursive;
+  font-size: 3em;
+}
+
+.debutante .explainer {
+  margin: 3rem;
+  padding: 2rem;
+}
+
+.cursive {
+  font-family: 'Pacifico', cursive;
+}
+
+/* jumbotron */
+.centered a.secondary {
+  display: inline-block;
+  padding: 0.25rem;
+  font-size: 1.125rem;
+}

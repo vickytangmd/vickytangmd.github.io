@@ -6,22 +6,27 @@ plugins:
   - jekyll-remote-theme
 
 # Base config
-title: Vicky Tang, MD
-author: Vicky Tang, MD
+title: Vicky Tang, MD, MAS
+author: Vicky Tang, MD, MAS
 url: https://vickytangcoaching.com
 site-css:
   - "/assets/css/jumbotron.css"
   - "/assets/css/site.css"
+  - "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css"
+  - "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"
+site-js:
+  - "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"
+  - "/assets/js/testimonials.js"
 
 # Cosmetic behavior
-avatar: /assets/img/avatar-icon.jpg
-round-avatar: true
+#avatar: /assets/img/avatar-icon.jpg
+#round-avatar: true
 
 # Navbar
 navbar-links:
   # About: "about"
-  Book a Call: "https://calendly.com/victoriatang"
-  Newsletter: "https://vickytangcoaching.substack.com"
+  Get Started: "https://calendly.com/victoriatang"
+  #Newsletter: "https://vickytangcoaching.substack.com"
   #Resources:
   #  - Publications: "https://profiles.ucsf.edu/victoria.tang#toc-id5"
   #  - Linked In: "https://www.linkedin.com/in/vickytangmd/"
