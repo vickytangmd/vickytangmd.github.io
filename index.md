@@ -21,7 +21,7 @@ layout: default
     </p>
 
     <div class="centered">
-      <a class="btn btn-success get-started-btn" href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/victoriatang/coaching'});return false;">Book a Call</a>
+      <a class="btn btn-success get-started-btn" href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/victoriatang/coaching'});return false;">I'm Ready</a>
     </div>
   </div>
 </div>

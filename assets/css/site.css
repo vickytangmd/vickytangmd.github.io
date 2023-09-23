@@ -40,3 +40,11 @@
 h1, h2, h3 {
   font-family: 'Pacifico', cursive;
 }
+
+nav {
+  background-image: url(/assets/img/navbar-bg.svg);
+}
+
+footer {
+  background-image: url(/assets/img/footer-bg.svg);
+}
