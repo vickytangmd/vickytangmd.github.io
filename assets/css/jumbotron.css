@@ -57,14 +57,16 @@ a.btn {
 }
 
 /* Support button in navbar */
-.navbar-custom .navbar-nav li.nav-item a[href*="github.com/sponsors"] {
+/*
+.navbar-custom .navbar-nav li.nav-item a {
   color: hotpink;
   transition: background 300ms, color 300ms;
 }
-.navbar-custom .navbar-nav li.nav-item a[href*="github.com/sponsors"]:hover {
+.navbar-custom .navbar-nav li.nav-item a:hover {
   background: hotpink;
   color: #3344bb;
-}
+}*/
+
 @media (min-width: 768px) {
   .navbar-custom .navbar-nav .nav-item:not(.dropdown):last-child .nav-link {
     padding-right: 1rem;

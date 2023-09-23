@@ -10,7 +10,8 @@ title: Vicky Tang, MD
 author: Vicky Tang, MD
 url: https://vickytangcoaching.com
 site-css:
-  - "/assets/css/demo.css"
+  - "/assets/css/jumbotron.css"
+  - "/assets/css/site.css"
 
 # Cosmetic behavior
 avatar: /assets/img/avatar-icon.jpg
@@ -33,7 +34,6 @@ social-network-links:
   email: vicky.tang@vickytangcoaching.com
   calendly: victoriatang
   # google-scholar: TODO
-
 
 # Colors
 navbar-col: "#EAEAEA"

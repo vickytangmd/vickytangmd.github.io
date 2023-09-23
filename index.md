@@ -2,7 +2,7 @@
 title: Vicky Tang, MD
 subtitle: Coaching geriatricians and aging researchers
 layout: home
-#cover-img: /assets/img/cover.jpg
+cover-img: /assets/img/cover-2.jpg
 ---
 
 <div class="main-explain-area jumbotron">
