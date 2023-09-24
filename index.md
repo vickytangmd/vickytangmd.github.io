@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="debutante">
-  <img class="picture-frame" src="/assets/img/avatar-icon.jpg">
+  <img class="picture-frame" src="/assets/img/vt-portrait.jpg">
 
   <div class="explainer">
     <h2>Welcome!</h2>

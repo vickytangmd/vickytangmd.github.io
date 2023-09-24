@@ -21,7 +21,7 @@ site-js:
   - "https://assets.calendly.com/assets/external/widget.js"
 
 # Cosmetic behavior
-#avatar: /assets/img/avatar-icon.jpg
+#avatar: /assets/img/vt-portrait.jpg
 #round-avatar: true
 
 # Navbar
