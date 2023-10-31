@@ -9,15 +9,21 @@ layout: default
     <h2>Welcome!</h2>
 
     <p>
-      I am a physician, researcher, and certified professional coach in the
-      field of geriatrics. It's my mission to help society take better care
-      of older adults.
+      I am a geriatrician, researcher, and certified professional coach. It's
+      my mission to help improve the lives of older adults and improve our
+      experience with aging.
     </p>
 
     <p>
-      As a certified professional coach for geriatricians and aging researchers,
-      I can help you <strong>level up your career</strong>, <strong>multiply
-      your impact</strong>, and <strong>live out your purpose</strong>.
+      If you are a geriatrican or researcher in aging with this same mission,
+      I want to help you <strong>level up your career</strong>,
+      <strong>multiply your impact</strong>, and
+      <strong>live out your purpose</strong>.
+    </p>
+
+    <p>
+      <a href="https://jamanetwork.com/journals/jama/article-abstract/2808221" target="_blank">Though we are few</a>,
+      <strong>we can be mighty</strong>.
     </p>
 
     <div class="centered">
